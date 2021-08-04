@@ -1,5 +1,5 @@
 header{
-  background-image: url("2412426e-cfd7-4138-b7c1-36fd24f9255c 2.png");
+  background-image: url("/Users/yanagisawanaoya/Desktop/html_lesson/2412426e-cfd7-4138-b7c1-36fd24f9255c 2.jpeg");
   background-size: cover;
   height:1000px;
   width:100%
@@ -17,7 +17,7 @@ header h1{
   margin: 50px;
 }
 
-.center p{
+.center a{
   float:left;
   margin-right:100px;
   margin-top:150px;
@@ -42,19 +42,20 @@ header h1{
   margin-top:40px;
   margin-right:40px;
   float:left;
+  height:300px;
+  width:500px;
 }
 
 .Progate li{
   padding-top:35px;
   letter-spacing:3px;
-  line-height:0.5em;
 }
 
 .book span{
   background:linear-gradient(transparent 80%, #f6c 0%);
   width:440px;
   display:block;
-  margin-top:60px;
+  margin-top:200px;
 }
 
 .book img{
@@ -62,12 +63,12 @@ header h1{
   margin-top:40px;
   margin-right:40px;
   float:left;
+  height:300px;
 }
 
 .book li{
   padding-top:35px;
   letter-spacing:3px;
-  line-height:0.5em;
 }
 
 .Techcamp span{
@@ -82,12 +83,13 @@ header h1{
   margin-top:40px;
   margin-right:40px;
   float:left;
+  height:300px;
+  width:500px;
 }
 
 .Techcamp li{
   padding-top:35px;
   letter-spacing:3px;
-  line-height:0.5em;
 }
 
 .Portfolio{
@@ -95,6 +97,7 @@ header h1{
 }
 
 .Portfolio h3{
+  margin-top:350px;
   border-bottom:1px solid gray;
 }
 
